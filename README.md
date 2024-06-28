@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jakia Sultana</h1>
-<h3 align="center">Passionate to work for Data Science and want to make a sheer contribution in the field of research</h3>
+<h3 align="center">Passionate to work for Software Development and want to make a sheer contribution in the field of research</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakiasultana&label=Profile%20views&color=0e75b6&style=flat" alt="jakiasultana" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@jakiajenny" target="blank"><img src="https://img.shields.io/twitter/follow/@jakiajenny?logo=twitter&style=for-the-badge" alt="@jakiajenny" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science with Deep Learning**
+- 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Machine Learning || Deep Learning || Database**
+- 💬 Ask me about **HTML || CSS || JavaScript**
 
 - 📫 How to reach me **jenny15cu@gmail.com**
 
