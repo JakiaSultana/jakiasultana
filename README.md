@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML || CSS || JavaScript**
 
-- 📫 How to reach me **jenny15cu@gmail.com**
+- 📫 How to reach me **jakiasultanajenny23@gmail.com**
 
 - ⚡ Fun fact **I can keep myself occupied for the entire day by solving all of the errors I encountered while coding.**
 
